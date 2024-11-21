@@ -1,0 +1,15 @@
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.AssemblyInfoInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.AssemblyInfo.cs
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.csproj.CoreCompileInputs.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.sourcelink.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.exe
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.deps.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.runtimeconfig.json
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\bin\Debug\net8.0\SistemaHospedagemDeHotel.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\refint\SistemaHospedagemDeHotel.dll
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.pdb
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\SistemaHospedagemDeHotel.genruntimeconfig.cache
+C:\Users\mamin\Documents\codigos_vscode\Randstad - Backend com .NET\SistemaHospedagemDeHotel\obj\Debug\net8.0\ref\SistemaHospedagemDeHotel.dll
