@@ -20,7 +20,7 @@ namespace Models
         {
             if (suite == null)
             {
-                throw new ArgumentException("A suiíte não pode ser nula.");
+                throw new ArgumentException("A suíte não pode ser nula.");
             }
             Suite = suite;
         }
@@ -35,7 +35,6 @@ namespace Models
             {
                 throw new InvalidOperationException("O número de hóspedes excede a capacidade da suíte");
             }
-
             Hospedes = hospedes;
         }
 
