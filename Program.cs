@@ -15,7 +15,8 @@ class Program
             Console.WriteLine("\nMenu Principal:");
             Console.WriteLine("1 - Fazer Nova reserva");
             Console.WriteLine("2 - Verificar reservas");
-            Console.WriteLine("3 - Sair");
+            Console.WriteLine("3 - Excluir reservas");
+            Console.WriteLine("4 - Sair");
 
             string? opcaoMenu = Console.ReadLine();
 
@@ -23,15 +24,22 @@ class Program
             {
                 case "1":
                     Console.Clear();
+                    Console.WriteLine("NOVA RESERVA");
                     FazerNovaReserva(reservas);
                     break;
 
                 case "2":
                    // Console.Clear();
+                    Console.WriteLine("RESERVAS");
                     VerificarReservas(reservas);
                     break;
 
                 case "3":
+                    Console.WriteLine("EXCLUIR RESERVAS");
+                    Console.WriteLine("\nOpção em desenvolvimento. Tente novamente.");
+                    break;
+
+                case "4":
                     exibirMenu = false;
                     Console.WriteLine("Encerrando o sistema...");
                     Console.WriteLine("\nPressione qualquer tecla para continuar...");
@@ -60,6 +68,7 @@ class Program
         Console.WriteLine("3 - Premiere (Max.: 4 pax)");
         Console.WriteLine("4 - Suíte (Max.: 2 pax)");
         Console.WriteLine("5 - Family Room (Max.: 6 pax)");
+        Console.WriteLine("6 - Voltar");
 
         string? opcao = Console.ReadLine();
 
